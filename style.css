@@ -1,0 +1,19 @@
+.display{
+    display: flex;
+    justify-content: space-around;
+}
+
+.dv{
+    width: 150px;
+  margin: 20px;
+  display: flex;
+    border: 2px solid black;
+    justify-content: space-around;
+    padding-top: 10px ;
+}
+
+
+.card{
+
+    padding: 20px !important;
+}
